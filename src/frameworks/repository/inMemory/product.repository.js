@@ -1,4 +1,4 @@
-const { inMemory: inMemoryDb } = require('../../database/inMemory');
+const { inMemory: inMemoryDb } = require('../../database');
 
 
 const { v4 :uuidv4 } = require('uuid');
